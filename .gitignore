@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+notes.txt
+results/
+datasets/
+_dataset
+data
